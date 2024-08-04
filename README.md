@@ -1,37 +1,60 @@
-<h1 align="left"> Hi there 👋 I'm Syeda Anam Zahra </h1>
+  <img src="https://general-pusher-cms.s3.amazonaws.com/blog/netreact_ce7fbdc765.jpg" width="100%" height="400px" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Syeda+Anam+Zahra!;" />
+</h1>
+
+<h3 align="center">A passionate software developer</h3>
+
+<br/>
 
 - 👨🏻‍💻 Full-Stack Web Developer
 - 🧠 Extensive knowledge and experience in ASP.Net, SQL, React.js, Bootstrap, C#, Node, HTML, CSS, and JavaScript. I use Git and GitHub for effective collaboration and version control.
 - 🤔 Always learning and experimenting
 - 🛣️ Demonstrated expertise in time management, leadership, and collaboration
 - ✨ Solve practical, real-world problems
+ 
+<div align="center"> 
+  <a href="mailto:zahraanam55555@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/syeda-anam-zahra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://zahraanam786.github.io/Syeda-Anam-Zahra-Portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<img align="right" src="https://w7.pngwing.com/pngs/685/882/png-transparent-web-development-programmer-computer-programming-mobile-app-development-design-web-design-text-reading-thumbnail.png" height="300" width="300">
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,jquery,bootstrap,html,css,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,mysql,vscode,visualstudio" /><br>
+</div>
 
-<h3>Where to find me</h3>
-<p> <a href="https://www.linkedin.com/in/syeda-anam-zahra/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/ZahraAnam786/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </p>
+<br/>
+<hr/>
 
-<h3>Things I code with</h3>
-<p>  
-  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
-  <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Bootstrap-%238B35DA?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Css3" src="https://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-%2338bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=green" />
-   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-   <img alt="github" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-- 👋 Go and check my Portfolio - https://zahraanam786.github.io/Syeda-Anam-Zahra-Portfolio/
-- 📫 How to reach me - zahraanam55555@gmail.com
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+
